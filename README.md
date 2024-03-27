@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sheshikumar1
 - 👀 I’m interested in coding and machine learning
 - 🌱 I’m currently learning web development along machine learning 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sheshikumarerrboina@gmail.com
 
 <!---
